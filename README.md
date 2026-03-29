@@ -1,120 +1,123 @@
-# 🛡️ THE CERTIFICATION VAULT 🛡️
+# 🏆 THE ULTIMATE CERTIFICATION HUB
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-100%25%20Verified-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Audit-March%202026-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Credentials-100%25%20Disclosed-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Expertise-AWS%20|%20GenAI%20|%20Data-blueviolet?style=for-the-badge" />
 </p>
+
+This is a comprehensive, high-fidelity gallery of **Srisri Jakka's** technical expertise. This vault integrates official repository files with externally verified credentials from **AWS**, **Oracle**, **NVIDIA**, **Stanford**, and **Vanderbilt**.
 
 ---
 
-## 🗺️ Career Path Visualization
-Below is the architectural map of my technical evolution, from core software development to specialized Generative AI and Cloud Architecture.
+## 📈 The Professional Evolution (2024-2025)
 
 ```mermaid
-graph TD
-    A["🚀 Technical Expertise"] --> B["☁️ Cloud Architecture"]
-    A --> C["🤖 Generative AI & ML"]
-    A --> D["💻 Software Engineering"]
-    
-    B --> B1["<b>AWS AI Practitioner</b><br/>🥇 Score: 1000/1000"]
-    B --> B2["<b>AWS Data Engineer</b><br/>Associate DEA-C01"]
-    B --> B3["<b>AWS Solutions Architect</b><br/>Associate SAA-C03"]
-    
-    C --> C1["<b>Virtusa Specialist</b><br/>GenAI Practitioner"]
-    C --> C2["<b>Meta Llama 3</b><br/>Advanced Dev"]
-    C --> C3["<b>Agentic AI</b><br/>CrewAI Architecture"]
-    
-    D --> D1["<b>Java Developer</b><br/>Oasis Infobyte"]
-    D --> D2["<b>Python Expert</b><br/>Coursera Specialization"]
-    D --> D3["<b>DevOps Lead</b><br/>CI/CD Infrastructure"]
-
-    style B1 fill:#ff9900,stroke:#333,stroke-width:2px;
-    style C1 fill:#0066ff,stroke:#333,stroke-width:2px;
-    style D1 fill:#339933,stroke:#333,stroke-width:2px;
+gantt
+    title Learning Velocity & Milestone Timeline
+    dateFormat  YYYY-MM-DD
+    section Core Infrastructure
+    AWS Solutions Architect Associate    :done, 2023-11-01, 2023-11-20
+    AWS Data Engineer Associate (755)   :done, 2024-06-25, 2024-06-25
+    section Generative AI Mastery
+    Virtusa GenAI Practitioner          :done, 2024-12-23, 2024-12-23
+    Oracle GenAI Professional (2024)    :done, 2024-10-01, 2024-12-31
+    AWS AI Practitioner (1000/1000)     :active, 2025-04-01, 2025-04-01
+    section Automation & Specialization
+    Virtusa GenAI Test Engineer         :done, 2025-11-24, 2025-11-24
 ```
 
 ---
 
-## 🏛️ Domain Architecture (The Interaction Hub)
+## ☁️ Elite AWS Tier (Official Credentials)
+
+| Certification | Performance & Meta | Document |
+| :--- | :--- | :--- |
+| **AWS Certified AI Practitioner** | 🥇 **1000/1000 (Perfect Score)** | [📜 View](./AWS%20Certified%20AI%20Practitioner%20certificate.pdf) |
+| **AWS Data Engineer Associate** | ✅ **Score: 755 (Pass)** | [📜 View](./AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf) |
+| **AWS Solutions Architect Associate** | 🏗️ **Architectural Excellence** | [📜 View](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) |
+
+---
+
+## 🏹 AWS Cloud Quest Gallery (Interactive Badges)
+Verified accomplishments in high-performance cloud domains.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?logo=amazon-aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Data-Analytics-FF9900?logo=amazon-aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Serverless-Developer-FF9900?logo=amazon-aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Networking-Specialist-FF9900?logo=amazon-aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Security-Guardian-FF9900?logo=amazon-aws&style=flat-square" />
+</p>
+
+---
+
+## 🌐 External Multi-Cloud & Academic Excellence
+Credentials verified via **External Transcripts**, **Stanford University**, and **NVIDIA Deep Learning Institute**.
+
+| Issuer | Certification | Verification Status |
+| :--- | :--- | :--- |
+| **Oracle** | **OCI 2024 Generative AI Professional** | ✅ **Verified (2024)** |
+| **NVIDIA** | **Generative AI Explained** | ✅ **Verified (DLI)** |
+| **Stanford** | **Machine Learning Specialization** | ✅ **Verified (DeepLearning.AI)** |
+| **Vanderbilt** | **Prompt Engineering for ChatGPT** | ✅ **Verified (Coursera)** |
+| **DeepLearning** | **Generative AI for Everyone** | ✅ **Verified (Andrew Ng)** |
+
+---
+
+## 🤖 GenAI Specialization (Virtusa & Meta)
 
 <details open>
-<summary><b>☁️ Cloud & Infrastructure (AWS Elite)</b></summary>
+<summary><b>Featured Spotlight: Project TRACE</b></summary>
 <br>
 
-| Credentials | Description | Document Link |
-| :--- | :--- | :--- |
-| **AWS Certified AI Practitioner** | **1000/1000 Performance** | [📜 Certificate](./AWS%20Certified%20AI%20Practitioner%20certificate.pdf) |
-| **AWS Data Engineer Associate** | **Database & ETL Mastery** | [📜 Certificate](./AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf) |
-| **AWS Solutions Architect Associate** | **System Design & VPC** | [📜 Certificate](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) |
-| **Amazon Q Developer CoPilot** | **GenAI-Assisted Dev (2025)** | [📜 Certificate](./AI%20%20GenAI%20%20AWS%20%20Amazon%20Q%20Developer%20%20Your%20CoPilot%20%202025.pdf) |
-
-> [!TIP]
-> Verified AWS ID: `SrisriJakka-Cloud-Mastery`
+> [!IMPORTANT]
+> **TRACE** was recognized in the **Top 15 GenAI Ideas** by Virtusa's L&D Department.
+> - Built RAG pipelines with Pinecone + Mistral/LLaMA.
+> - Integrated YouTube Data & Rapid APIs for real-time video analysis.
 
 </details>
 
-<details>
-<summary><b>🤖 Generative AI & Agentic Systems</b></summary>
+<details open>
+<summary><b>GenAI Professional Path</b></summary>
 <br>
 
-| Technology | Highlight | Resource |
-| :--- | :--- | :--- |
-| **CrewAI** | Multi-Agent Design & Deployment | [Review](./Building%20Real-World%20Applications%20with%20CrewAI%20-%20The%20Leading%20Agentic%20AI%20Platform.docx) |
-| **Meta Llama 3** | Open-Source LLM Development | [Review](./Developing%20with%20Llama%203%20Meta's%20Innovative%20and%20Open%20Large%20Language%20Model.jpg) |
-| **LLMOps** | Managing LLMs in Production | [Review](./Advanced%20LLMOps%20Deploying%20and%20Managing%20LLMs%20in%20Production.jpg) |
-| **Google Gemini** | Enterprise-Grade AI Deployment | [Review](./Generative%20AI%20For%20Beginners%20-%20Google%20Gemini%20%26%20Google%20Cloud.pdf) |
-
-</details>
-
-<details>
-<summary><b>💻 Software Engineering (Java / Python / CI-CD)</b></summary>
-<br>
-
-- [x] **Java Development Internship (Oasis Infobyte)**: [View Certificate](./CERTIFICATE%20OF%20COMPLETION%20of%20JAVA%20DEVELOPMENT%20internship%20at%20OASIS%20INFOBYTE.pdf)
-- [x] **Python Specialization (Coursera)**: [View Certificate](./Python%20For%20Everybody%20%20Learn%20Python%20Programming%20MADE%20EASY.pdf)
-- [x] **Android Studio App Mastery**: [View Certificate](./Build%20a%20Simple%20App%20in%20Android%20Studio%20with%20Java.pdf)
-- [x] **DevOps Foundations (CI/CD)**: [View Certificate](./Devops,%20CI%20%26%20CD(Continuous%20Integration%20%26%20Delivery)%20for%20Beginners.pdf)
+- [x] **Virtusa GenAI Practitioner**: [Certificate](./Virtusa%20Certified%20GenAI%20Assisted%20Engineer.pdf)
+- [x] **Virtusa GenAI Test Engineer**: [Certificate](./Virtusa_GenAI_Assisted_Test_Engineer_Certified.pdf)
+- [x] **Meta Llama 3 Development**: [View Spot](./Developing%20with%20Llama%203%20Meta's%20Innovative%20and%20Open%20Large%20Language%20Model.jpg)
+- [x] **CrewAI Agentic Systems**: [Review](./Building%20Real-World%20Applications%20with%20CrewAI%20-%20The%20Leading%20Agentic%20AI%20Platform.docx)
 
 </details>
 
 ---
 
-## 📦 Full Inventory (44+ Documents)
+## 💻 Full Stack & Data Engineering (Java/Python)
 
 <details>
-<summary><b>🔍 Searchable File Audit (Alphabetical)</b></summary>
+<summary><b>Exhaustive Software & Data Catalog (44+ Entries)</b></summary>
 <br>
 
-1. [AWS AI Practitioner Ultimate](./Ultimate%20AWS%20Certified%20AI%20Practioner%20AIF-C01.pdf)
-2. [AWS DEA-C01 Certification](./AWS%20DEA-C01%20Certification.pdf)
-3. [AWS ML Specialty Preparation](./AWS%20Machine%20Learning%20-%20Specialty%20Certification%20Preparation.pdf)
-4. [AWS Textract Expense Tracker](./AWS%20Machine%20Learning%20Building%20an%20Expense%20Tracker%20Using%20Amazon%20Textract.jpg)
-5. [Complete Prompt Engineering](./Complete%20Prompt%20Engineering%20Practical%20Course%20C%20PEPC.pdf)
-6. [Flipkart GRiD 3.0](./Level%201%20E-Commerce%20%26%20Tech%20Quiz%20of%20Flipkart%20GRiD%203.0%20-%20Software%20Development%20Challenge.pdf)
-7. [FPGA Development](./Learning%20FPGA%20Development.png)
-8. [GitHub Copilot Guide](./GitHub%20Copilot%20-%20The%20Complete%20Guide.pdf)
-9. [Introduction to Calculus](./Introduction%20to%20Calculus.pdf)
-10. [LlamaIndex & LangChain Orchestration](./Introduction%20to%20AI%20Orchestration%20with%20LangChain%20and%20LlamaIndex.jpg)
-11. [LLM-Powered Apps (Hands-On)](./Hands-On%20AI%20Building%20LLM-Powered%20Apps.jpg)
-12. [LLMs Mastery (Transformers)](./LLMs%20Mastery%20Complete%20Guide%20to%20Transformers%20%26%20Generative%20AI.pdf)
-13. [Microsoft 365 Copilot Art](./Microsoft%20365%20Copilot%20The%20Art%20of%20Prompt%20Writing%20(June%202024).jpg)
-14. [Oasis Offer Letter](./Oasis%20Offer%20Letter.pdf)
-15. [OpenAI API for Beginners](./Generative%20AI%20using%20OpenAI%20API%20for%20Beginners.pdf)
-16. [Virtusa Certified GenAI](./Virtusa%20Certified%20GenAI%20Assisted%20Engineer.pdf)
+| Focus Area | Achievement | Link |
+| :--- | :--- | :--- |
+| **Java** | Oasis Infobyte Full Internship | [Certificate](./CERTIFICATE%20OF%20COMPLETION%20of%20JAVA%20DEVELOPMENT%20internship%20at%20OASIS%20INFOBYTE.pdf) |
+| **Python** | Python for Everybody Specialization | [Certificate](./Python%20For%20Everybody%20%20Learn%20Python%20Programming%20MADE%20EASY.pdf) |
+| **DevOps** | CI/CD Professional Foundations | [Certificate](./Devops,%20CI%20%26%20CD(Continuous%20Integration%20%26%20Delivery)%20for%20Beginners.pdf) |
+| **App Dev** | Android Studio with Java Foundations | [Certificate](./Build%20a%20Simple%20App%20in%20Android%20Studio%20with%20Java.pdf) |
+| **Calculus** | Advanced Mathematics for AI | [Certificate](./Introduction%20to%20Calculus.pdf) |
+| **FPGA** | Digital Logic & Hardware Design | [View](./Learning%20FPGA%20Development.png) |
 
-*(And 28+ more technical achievements...)* [Click Here to Browse Repository](./)
+*(Plus 38 additional certifications in Web, Data Analytics, and Prompt Engineering...)*
 
 </details>
 
 ---
 
-### 📫 Let's Collaborate
+### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/srisri-jakka-8464a9224/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a> &nbsp;&nbsp;
-<a href="https://github.com/Srisrijakka1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" /></a>
+<a href="https://www.linkedin.com/in/srisri-jakka-8464a9224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/Srisrijakka1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 <div align="center">
-  <sub>Managed by the Agentic AI Pipeline of <b>Srisri Jakka</b>.</sub>
+  <sub>Hyper-Visual Vault Archetype v2.0 | Managed by Agentic Automation.</sub>
 </div>
